@@ -1,4 +1,5 @@
-##Se puede realizar un análisis simple de las diferencias de los parámetros bioquímicos y algunos genes importantes para rutas metabolicas y de crecimiento celular 
+##Se puede realizar un análisis simple de las diferencias de los parámetros bioquímicos y algunos genes importantes para rutas metabolicas y de crecimiento celular
+#se puede sugerir borrar el script para que este sea definitivo
 
 library("ggplot2") #Graficos 
 library("patchwork") #Multiplots
